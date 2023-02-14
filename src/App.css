@@ -148,6 +148,7 @@
   display: none;
 }
 
+
 @media (max-width: 500px) {
   .Title,
   .Continent-Title {

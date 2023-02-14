@@ -35,8 +35,8 @@ export default function Continents() {
         {(value) => {
           return (
             <div className="container">
-              {continents.map((currentContinent, i) => (
-                <div className="continentName">
+              <div className="continentName">
+                {continents.map((currentContinent, i) => (
                   <button
                     type="button"
                     class="btn btn-primary btn-lg btn-radius continent-Box"
@@ -46,9 +46,9 @@ export default function Continents() {
                     {getCountries(value, currentContinent, i)}
                     <div>{currentContinent.continent}</div>
                   </button>
-                </div>
-              ))}
-              <div className="continentsList">
+                ))}
+              </div>
+              <div className="continentList">
                 <select
                   id="List"
                   onChange={(e) =>
