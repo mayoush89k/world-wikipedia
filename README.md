@@ -1,1 +1,1 @@
-# world-wokopedia
+# world-wikipedia
