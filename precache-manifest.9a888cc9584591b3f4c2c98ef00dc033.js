@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "093334be266dcfa39c0e",
-    "url": "/world-wikipedia/static/css/main.03c211ff.chunk.css"
+    "revision": "123d0456a73264efffa7",
+    "url": "/world-wikipedia/static/css/main.762c12e2.chunk.css"
   },
   {
-    "revision": "093334be266dcfa39c0e",
+    "revision": "123d0456a73264efffa7",
     "url": "/world-wikipedia/static/js/main.fcbf3368.chunk.js"
   },
   {
@@ -332,7 +332,7 @@ self.__precacheManifest = [
     "url": "/world-wikipedia/static/media/zimbabwe.75e2dd0d.gif"
   },
   {
-    "revision": "3c3091cdb8c54791b0519ef4993c66a6",
+    "revision": "feb0c1dbe01751a386c30182190a5f87",
     "url": "/world-wikipedia/index.html"
   }
 ];
