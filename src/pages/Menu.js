@@ -8,7 +8,7 @@ export default function Menu(params) {
 
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
-
+      
   return (
     <>
       <nav className="navbar">
