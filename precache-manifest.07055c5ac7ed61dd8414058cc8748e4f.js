@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "07165332cb7c73102b9a",
-    "url": "/world-wikipedia/static/css/main.b199a626.chunk.css"
+    "revision": "ebe73c54edd119869091",
+    "url": "/world-wikipedia/static/css/main.4f1a75cd.chunk.css"
   },
   {
-    "revision": "07165332cb7c73102b9a",
-    "url": "/world-wikipedia/static/js/main.3802eb17.chunk.js"
+    "revision": "ebe73c54edd119869091",
+    "url": "/world-wikipedia/static/js/main.8a113e78.chunk.js"
   },
   {
     "revision": "90f3ea9de9934beddafe",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/world-wikipedia/static/media/flags.a108ac1f.gif"
   },
   {
-    "revision": "ded2ef6b061b1633e9f17dac5ca43d15",
-    "url": "/world-wikipedia/static/media/city.ded2ef6b.gif"
+    "revision": "f7625c0d8eb180af3eb08e345e71a348",
+    "url": "/world-wikipedia/static/media/city.f7625c0d.gif"
   },
   {
-    "revision": "6b280b36e46f6639b461d91abc383979",
-    "url": "/world-wikipedia/static/media/continents.6b280b36.gif"
+    "revision": "350081d9b6457b82cc9184117177597b",
+    "url": "/world-wikipedia/static/media/continents.350081d9.gif"
   },
   {
-    "revision": "4510804f8d50cca8257bd191dff4a4c3",
-    "url": "/world-wikipedia/static/media/capital.4510804f.gif"
+    "revision": "0038afa1ba882012c6ea0a90691ecbd4",
+    "url": "/world-wikipedia/static/media/capital.0038afa1.gif"
   },
   {
     "revision": "d6113f5a2c1897f8ebdee92c6f401614",
@@ -332,7 +332,7 @@ self.__precacheManifest = [
     "url": "/world-wikipedia/static/media/zimbabwe.75e2dd0d.gif"
   },
   {
-    "revision": "a9c88acf88d40c4272fb7d98409cdc7a",
+    "revision": "a186a3819a32b1077830b7f9d77c045c",
     "url": "/world-wikipedia/index.html"
   }
 ];
